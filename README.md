@@ -1,6 +1,7 @@
-# process-inject
+# procjack
 
-Inject code into a running process.
+PoC of injecting code into a running Linux process.
+Spawns a new thread to host the injected code.
 
 ## Example
 
