@@ -5,7 +5,7 @@ Spawns a new thread to host the injected code.
 
 ## Example
 
-This will inject a string into a running process 'dummy'.
+This will inject shellcode, contained in the [`count`](src/count.asm) binary, into a running process 'dummy'.
 ```
 $ cd src
 $ make
